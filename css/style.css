@@ -341,6 +341,7 @@ a.in {
     display: table-cell;
     padding: 15px;
     color: black;
+    font-style: normal;
 }
 
 .third-table i{
